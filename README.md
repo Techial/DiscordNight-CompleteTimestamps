@@ -19,19 +19,29 @@
 <div>
     <ul>
         <li>
-            <a href="#features">Features</a>
+            <a href="#features">
+                <p>Features</p>
+            </a>
         </li>
         <li>
-            <a href="#installation">Installation</a>
+            <a href="#installation">
+              <p>Installation</p>
+            </a>
         </li>
         <li>
-            <a href="#contribute">Contribute</a>
+            <a href="#contribute">
+                <p>Contribute</p>
+            </a>
         </li>
         <li>
-            <a href="#support">Support</a>
+            <a href="#support">
+                <p>Support</p>
+            </a>
         </li>
         <li>
-            <a href="#license">License</a>
+            <a href="#license">
+                <p>License</p>
+            </a>
         </li>
     </ul>
 </div>
@@ -40,7 +50,7 @@
 <div>
     <ul>
         <li>
-            <strong>Minimal Size:</strong> No bloat, whatsoever.
+            <p><strong>Minimal Size:</strong> No bloat, whatsoever.</p>
         </li>
     </ul>
 </div>
@@ -53,13 +63,19 @@
         <h3>Pre-requisites:</h3>
         <ul>
             <li>
-                <a href="https://betterdiscord.app/">BetterDiscord</a>
+                <a href="https://betterdiscord.app/">
+                    <p>BetterDiscord</p>
+                </a>
             </li>
             <li>
-                <a href="https://betterdiscord.app/theme/DiscordNight">DiscordNight</a>
+                <a href="https://betterdiscord.app/theme/DiscordNight">
+                    <p>DiscordNight</p>
+                </a>
             </li>
             <li>
-                <a href="https://betterdiscord.app/plugin/CompleteTimestamps">CompleteTimestamps</a>
+                <a href="https://betterdiscord.app/plugin/CompleteTimestamps">
+                    <p>CompleteTimestamps</p>
+                </a>
             </li>
         </ul>
     </div>
@@ -67,18 +83,18 @@
         <h3>Installation steps:</h3>
         <ol>
             <li>
-            Download <a href="https://techial.github.io/DiscordNight-CompleteTimestamps/DiscordNight-CompleteTimestamps.theme.css"><strong>DiscordNight-CompleteTimestamps.theme.css</strong></a> and navigate to <strong>Settings > Themes</strong> and click on <strong>Open Themes Folder</strong> or place the file in <strong>%appdata%/BetterDiscord/themes</strong>
+                <p>Download <a href="https://techial.github.io/DiscordNight-CompleteTimestamps/DiscordNight-CompleteTimestamps.theme.css"><strong>DiscordNight-CompleteTimestamps.theme.css</strong></a> and navigate to <strong>Settings > Themes</strong> and click on <strong>Open Themes Folder</strong> or place the file in <strong>%appdata%/BetterDiscord/themes</strong></p>
             </li>
             <li>
-                Refresh Discord using <strong>CTRL+R</strong> or restart Discord.
+                <p>Refresh Discord using <strong>CTRL+R</strong> or restart Discord.</p>
             </li>
             <li>
-                Go to <strong>Settings > BetterDiscord > Themes</strong> and enable both <strong>DiscordNight</strong> and <strong>DiscordNight - CompleteTimestamps</strong>.
+                <p>Go to <strong>Settings > BetterDiscord > Themes</strong> and enable both <strong>DiscordNight</strong> and <strong>DiscordNight - CompleteTimestamps</strong>.</p>
             </li>
         </ol>
     </div>
-    <strong>Dark Theme</strong> needs to be enabled in <strong>Settings > Appearance > Theme</strong> and select <strong>Dark</strong>.<br />
-    BetterDiscord <strong>Minimal Mode</strong> is currently not supported.
+    <p><strong>Dark Theme</strong> needs to be enabled in <strong>Settings > Appearance > Theme</strong> and select <strong>Dark</strong>.<br />
+    BetterDiscord <strong>Minimal Mode</strong> is currently not supported.</p>
 </div>
 
 <br />
